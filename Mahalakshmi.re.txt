@@ -1,0 +1,10 @@
+personal details
+
+Name          : K.Mahalakshmi
+Date of Birth : 23/06/2006
+Gender        : Female
+
+Education
+
+Department:    BCA
+University:    Bharathidasan University
